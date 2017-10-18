@@ -1,7 +1,7 @@
 <?php
 
-echo "Olá, mundo 123!";
+echo "Olá, mundo novo!";
 
-echo "Olá, teste.";
+echo "Vamos com mais um teste.";
 
 ?>
